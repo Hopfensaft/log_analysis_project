@@ -1,0 +1,29 @@
+vagrant@vagrant:/vagrant/log_analysis_project$ python log_analysis.py
+
+
+ These are the top 5 articles to date:
+
+Article Name                          Number views
+----------------------------------  --------------
+Candidate is jerk, alleges rival            338647
+Bears love berries, alleges bear            253801
+Bad things gone, say good people            170098
+Goats eat Google's lawn                      84906
+Trouble for troubled troublemakers           84810
+
+
+ These are the top 5 authors to date:
+
+Author's Name             Number views
+----------------------  --------------
+Ursula La Multa                 507594
+Rudolf von Treppenwitz          423457
+Anonymous Contributor           170098
+Markoff Chaney                   84557
+
+
+ The articles resulting in most error cases are:
+
+Article Name      404 Error rate
+--------------  ----------------
+2016-07-17                  2.26
